@@ -9,12 +9,31 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.0",
+    "@mui/material": "^5.14.0",
+    "@tailwindcss/postcss": "^4.1.17",
+    "axios": "^1.5.0",
+    "dom-to-image-more": "^3.7.2",
+    "firebase": "^10.11.0",
+    "firebase-admin": "^11.10.0",
+    "flatpickr": "^4.6.13",
+    "lucide-react": "^0.552.0",
+    "mongoose": "^7.5.0",
+    "nanoid": "^4.0.0",
+    "next": "16.0.1",
     "react": "19.2.0",
     "react-dom": "19.2.0",
-    "next": "16.0.1"
+    "react-flatpickr": "^4.0.11",
+    "swr": "^2.3.6",
+    "tailwindcss": "^4.1.17"
   },
   "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "babel-plugin-react-compiler": "1.0.0",
     "eslint": "^9",
-    "eslint-config-next": "16.0.1"
+    "eslint-config-next": "16.0.1",
+    "postcss": "^8.5.6"
   }
 }
